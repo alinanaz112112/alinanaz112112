@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alinanaz
 - 👀 I’m interested in web development both frontend and backend
-- 🌱 I’m currently learning pyhton, machine learning and web development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning pyhton, javascript, machine learning and web development
+- 💞️ I’m looking to collaborate on multiple topics. I am open to learning different things.
 - 📫 You can reach me at alinanaz112@gmail.com
 
 <!---
